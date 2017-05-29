@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#controls {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  padding: 10px;
+  margin: 0px;
+  background-color: rgba(0, 0, 0, 0.25);
+  list-style-type: none;
+}
+
+button {
+  background-color: rgba(255, 255, 255, 0.75);
+  color: #222222;
+  border: none;
+  border-radius: 3px;
+  padding: 5px;
+}
